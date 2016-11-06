@@ -12,7 +12,7 @@ Task
 You have a test String S. 
 Your task is to write a regex which will match  with the following condition:
 
-S should have  or more consecutive repetitions of "ok".
+S should have 3 or more consecutive repetitions of "ok".
 */
 
 import java.io.*;
